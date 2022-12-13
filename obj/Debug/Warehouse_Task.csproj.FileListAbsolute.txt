@@ -1,0 +1,10 @@
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\bin\Debug\Warehouse_Task.exe.config
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\bin\Debug\Warehouse_Task.exe
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\bin\Debug\Warehouse_Task.pdb
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\obj\Debug\Warehouse_Task.csprojAssemblyReference.cache
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\obj\Debug\Warehouse_Task.Form1.resources
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\obj\Debug\Warehouse_Task.Properties.Resources.resources
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\obj\Debug\Warehouse_Task.csproj.GenerateResource.cache
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\obj\Debug\Warehouse_Task.csproj.CoreCompileInputs.cache
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\obj\Debug\Warehouse_Task.exe
+C:\Users\mefta\OneDrive\Documents\Cyber Security stuff\Sem2\Programming languages and OOP\Assignment\Warehouse_Task\Warehouse_Task\obj\Debug\Warehouse_Task.pdb
