@@ -1,0 +1,3 @@
+Create a program to calculate the free space in the warehouse. But one day your boss came to you and said: Oh, we made an agreement with new company but this company is sending their shipments in containers of the size 2x2x3 meters. You need to rewrite your program to be able to deal with the shipments of such containers. 
+
+You need to rewrite your program. But having this experience you are not sure that one day your boss will not ask you to rewrite your program to be able to deal with one more type of containers. So you are also trying to rewrite your program in the way to make it easier to add new types of containers. 
